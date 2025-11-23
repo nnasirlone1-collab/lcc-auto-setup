@@ -1,0 +1,1 @@
+# lcc-auto-setup
